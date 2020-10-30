@@ -6,4 +6,6 @@
 
 3)If at all using 2FA, either enter the one time codes of the recent code received via SMS
 
-4)End task to quit bot operations
+4)End task to quit bot operations.
+
+now enjoy your echo bot.
